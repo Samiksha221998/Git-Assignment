@@ -1,0 +1,11 @@
+
+# Package Files #
+*.jar
+*.exe
+*.o
+
+# Ignore the build directory
+/dist
+
+# Ignore IDE specific files
+.vscode/
